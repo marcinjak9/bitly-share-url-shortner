@@ -1,0 +1,19 @@
+{
+    "name": "bitly-share-url-shortner/bitly-share-url-shortner",
+    "type": "library",
+    "description": "create social share buttons",
+    "keywords": ["social","share"],
+    "homepage": "https://github.com/marcinjak9/bitly-share-url-shortner",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Jakubik",
+            "email": "marcinjak9@gmail.com",
+            "homepage": "http://example.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
